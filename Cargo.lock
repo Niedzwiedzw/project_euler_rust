@@ -1,0 +1,4 @@
+[[package]]
+name = "project_euler_rust"
+version = "0.1.0"
+
